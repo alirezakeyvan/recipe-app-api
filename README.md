@@ -1,2 +1,2 @@
-# recipe-app-api
+# splitwise
 Recipe app API source code.
